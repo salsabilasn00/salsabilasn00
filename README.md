@@ -31,7 +31,7 @@ Feel free to reach out or follow me on:
 ---
 
 ## 📊 GitHub Stats
-![Salsabila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salsabila-nadia&show_icons=true&theme=radical)
+![Salsabila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salsabilasn00&show_icons=true&theme=radical)
 
 ### 🎉 Fun Fact  
 🐾 **I have a soft spot for cats!**  
