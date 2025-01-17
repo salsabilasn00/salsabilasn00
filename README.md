@@ -5,9 +5,14 @@ My passion lies in finding patterns, solving problems, and creating stories with
 
 ---
 
-## 🚀 Skills & Tools
+## 🚀 Language & Tools
 Here are some of the tools and languages I use:
 
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![RShiny](https://img.shields.io/badge/RShiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square)  
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)  
@@ -30,8 +35,8 @@ Feel free to reach out or follow me on:
 
 ---
 
-## 📊 GitHub Stats
-![Salsabila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salsabilasn00&show_icons=true&theme=radical)
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ### 🎉 Fun Fact  
 🐾 **I have a soft spot for cats!**  
