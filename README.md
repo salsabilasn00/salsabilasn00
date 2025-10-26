@@ -1,15 +1,12 @@
 # Hi there 👋, I'm Salsabila Sekar Nadia!
 
 I'm a **4th-semester Data Science student** who loves exploring data and transforming it into meaningful insights.  
-My passion lies in finding patterns, solving problems, and creating stories with data.
 
 ---
 
 ## 🚀 Language & Tools
 Here are some of the tools and languages I use:
 
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![RShiny](https://img.shields.io/badge/RShiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -18,13 +15,6 @@ Here are some of the tools and languages I use:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-
----
-
-## 🌱 Currently Exploring
-- Advanced **Data Analytics**
-- Building **Machine Learning Models**
-- Crafting **Data Visualizations**
 
 ---
 
