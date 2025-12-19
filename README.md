@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Salsabila Sekar Nadia!
 
-I'm a **4th-semester Data Science student** who loves exploring data and transforming it into meaningful insights.  
+I'm a **5th-semester Data Science student** who loves exploring data and transforming it into meaningful insights.  
 
 ---
 
@@ -13,7 +13,7 @@ Here are some of the tools and languages I use:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
 
 
 ---
